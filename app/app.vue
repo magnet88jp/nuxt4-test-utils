@@ -4,6 +4,7 @@
 </button>
     <NuxtRouteAnnouncer
      />
-    <NuxtWelcome />
+     <NuxtLoadingIndicator />
+    <NuxtPage />
   </div>
 </template>
